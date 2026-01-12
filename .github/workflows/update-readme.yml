@@ -1,4 +1,4 @@
-name: Auto Update Profile Projects
+name: Update Profile Projects
 
 on:
   schedule:
@@ -21,4 +21,7 @@ jobs:
       run: pip install requests
 
     - name: Run script
-      run: python scripts/update_projects.py
+      run: python scripts/update_pinned_projects.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_USERNAME: Malcom-Yingwani
