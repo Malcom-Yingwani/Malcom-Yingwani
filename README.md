@@ -1,6 +1,7 @@
-<div>
-  <img align="left" src="assets/forge-hammer.gif" alt="Forge Hammer">
+<div align="center">
+  <img src="assets/forge-hammer.gif" width="100%" height="300" style="object-fit: cover;" alt="Banner">
 </div>
+
   
 
 # ⚒️Malcom Yingwani
