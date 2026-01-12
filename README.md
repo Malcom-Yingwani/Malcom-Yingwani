@@ -16,9 +16,8 @@
 <br/>
 
 <div align="center"> 
- <a href="mailto:nsovomalcom@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-crimson?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
+ <a href="mailto:nsovomalcom@gmail.com"> 
+   <img src="https://img.shields.io/badge/Email-_-crimson?style=for-the-badge&logo=maildotru&logoColor=white" /> </a> how can I make this email code actually work
   <a href="https://malcom-yingwani.github.io/Malcom_Yingwani/" target="_blank">
     <img src="https://img.shields.io/badge/Website-_-crimson?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
