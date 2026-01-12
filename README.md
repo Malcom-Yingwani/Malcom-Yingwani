@@ -1,6 +1,7 @@
-
+<div>
   <img align="left" src="assets/forge-hammer.gif" alt="Forge Hammer">
-
+</div>
+  
 
 # ⚒️Malcom Yingwani
 
