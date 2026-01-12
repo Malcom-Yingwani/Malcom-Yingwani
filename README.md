@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="assets/forge-hammer.gif" width="100%" height="300" style="object-fit: cover;" alt="Banner">
+  <img src="assets/forge-hammer.gif" width="100%" height="200" style="object-fit: cover;" alt="Banner">
 </div>
-
-  
+<hr/>
 
 # ⚒️Malcom Yingwani
-
 **`Software Developer`**
 
 <div align="left">
