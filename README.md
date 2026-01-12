@@ -38,15 +38,6 @@
   <img src="https://skillicons.dev/icons?i=js,css,html,python,django,nodejs,express,sqlite,git,github,matlab  " /><br>
 </div>
 
-
-<hr/>
-
-## 🚀 Favourite Builds 
-<h3 align="center">Some of my favourite work so far.</h3>
-
-<!--START_SECTION:projects-->
-<!--END_SECTION:projects-->
-
 <hr/>
 
 ## 📫 Open To
