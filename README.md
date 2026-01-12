@@ -1,5 +1,5 @@
 
-  <img align="left" src="https://raw.githubusercontent.com/Malcom-Yingwani/Malcom-Yingwani/main/assets/forge-hammer.gif" width="420" alt="Forge Hammer">
+  <img align="left" src="assets/forge-hammer.gif" width="420" alt="Forge Hammer">
 
 
 # ⚒️Malcom Yingwani
