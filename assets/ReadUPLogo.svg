@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <!-- Background circle with gradient -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    
+    <radialGradient id="redGrad" cx="50%" cy="40%">
+      <stop offset="0%" style="stop-color:#FF1744;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC143C;stop-opacity:1" />
+    </radialGradient>
+    
+    <radialGradient id="whiteGrad" cx="50%" cy="30%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
+    </radialGradient>
+    
+    <linearGradient id="arrowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0f0f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <circle cx="300" cy="225" r="200" fill="url(#bgGrad)"/>
+  
+  <g transform="translate(300, 240)">
+    <!-- Bottom book - Red -->
+    <rect x="-103" y="52" width="206" height="32" fill="url(#redGrad)" rx="4"/>
+    <rect x="-99" y="53" width="9" height="30" fill="#B00020"/>
+    <rect x="93" y="53" width="6.5" height="30" fill="#FF1744" opacity="0.6"/>
+    
+    <!-- Second book - White -->
+    <rect x="-97" y="16" width="194" height="32" fill="url(#whiteGrad)" rx="4"/>
+    <rect x="-93" y="17" width="9" height="30" fill="#e8e8e8"/>
+    <rect x="87" y="17" width="6.5" height="30" fill="#ffffff" opacity="0.8"/>
+    
+    <!-- Third book - Red -->
+    <rect x="-101" y="-21" width="201" height="32" fill="url(#redGrad)" rx="4"/>
+    <rect x="-97" y="-19" width="9" height="30" fill="#B00020"/>
+    <rect x="90" y="-19" width="6.5" height="30" fill="#FF1744" opacity="0.6"/>
+    
+    <!-- Top book - White -->
+    <rect x="-88" y="-57" width="175" height="32" fill="url(#whiteGrad)" rx="4"/>
+    <rect x="-84" y="-55" width="9" height="30" fill="#e8e8e8"/>
+    <rect x="77" y="-55" width="6.5" height="30" fill="#ffffff" opacity="0.8"/>
+    
+    <!-- Arrow -->
+    <g transform="translate(0, -122)">
+      <path d="M -17 0 L -15.5 84 L 15.5 84 L 17 0 Z" fill="url(#arrowGrad)"/>
+      <path d="M 0 -26 L -36 15 L 36 15 Z" fill="url(#arrowGrad)"/>
+      <line x1="0" y1="-23" x2="0" y2="77" stroke="#ffffff" stroke-width="4.5" opacity="0.4"/>
+    </g>
+    
+    <!-- Motion trails -->
+    <g opacity="0.35">
+      <line x1="-129" y1="90" x2="-120" y2="65" stroke="#DC143C" stroke-width="6.5" stroke-linecap="round"/>
+      <line x1="129" y1="90" x2="120" y2="65" stroke="#DC143C" stroke-width="6.5" stroke-linecap="round"/>
+    </g>
+  </g>
+  
+  <circle cx="300" cy="225" r="200" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="4"/>
+</svg>
