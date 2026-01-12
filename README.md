@@ -44,8 +44,8 @@
 ## 🚀 Favourite Builds 
 <h3 align="center">Some of my favourite work so far.</h3>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 <hr/>
 
