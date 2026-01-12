@@ -2,7 +2,7 @@ name: Auto Update Profile Projects
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # daily at 01:00 UTC
+    - cron: "0 1 * * *"  # daily at 01:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,13 +12,13 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Auto‑update Projects
-      uses: theboi/github-update-readme@v1
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        readme-file: README.md
-        sections: |
-          projects: |
-            type: pinned
-            username: Malcom-Yingwani
-            max-repos: 6
+        python-version: "3.x"
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run script
+      run: python scripts/update_projects.py
