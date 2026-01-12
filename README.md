@@ -41,44 +41,11 @@
 
 <hr/>
 
-##  🚀 Favourite Builds 
-### Some of my favourite work yet.
+## 🚀 Favourite Builds 
+<h3 align="center">Some of my favourite work so far.</h3>
 
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/Malcom-Yingwani/ReadUP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Malcom-Yingwani&repo=ReadUP&theme=dark" alt="ReadUP">
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/Malcom-Yingwani/Downloads-Organiser">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Malcom-Yingwani&repo=Downloads-Organiser&theme=dark" alt="Downloads Organiser">
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/Malcom-Yingwani/Atlas_Dev_Tools_Landing_Page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Malcom-Yingwani&repo=Atlas_Dev_Tools_Landing_Page&theme=dark" alt="Atlas Dev Tools">
-</a>
-</td>
-</tr>
-</table>
-
-</p>
-
-<td align="center" width="50%">
-<!-- Add a 4th repo here if you want, or leave empty -->
-</td>
-</tr>
-</table>
-
-</p>
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <hr/>
 
