@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="https://malcom-yingwani.github.io/Malcom_Yingwani/" target="_blank">
+  <a href="https://malcom-yingwani-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-_-crimson?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/malcom-yingwani-512b5b272/" target="_blank">
